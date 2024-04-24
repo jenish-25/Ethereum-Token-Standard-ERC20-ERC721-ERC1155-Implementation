@@ -1,1 +1,1 @@
-# Ethereum-Token-Standard-ERC20-ERC721-ERC1155-Implementation
+# Ethereum-Token-Standard-ERC20-ERC721-Implementation
